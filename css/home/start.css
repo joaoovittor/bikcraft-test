@@ -1,0 +1,20 @@
+.menu {
+  display: flex;
+  padding: 20px;
+  align-items: center;
+  justify-content: space-between;
+  margin: 0 auto;
+  max-width: 1200px;
+  box-sizing: border-box;
+}
+.menu-bg {
+  background-color: #000;
+}
+.header-menu {
+  display: flex;
+  gap: 40px;
+}
+.header-menu a {
+  padding: 16px 0;
+  display: inline-block;
+}

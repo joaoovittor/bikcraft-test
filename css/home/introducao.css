@@ -1,0 +1,35 @@
+.introducao {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  align-items: center;
+  margin: 0 auto;
+  max-width: 1200px;
+  padding: 20px;
+  box-sizing: border-box;
+  align-items: center;
+}
+.introducao-bg {
+  background-color: #000;
+}
+.introducao-info {
+  height: auto;
+  padding-right: 50px;
+}
+.introducao-info h1 {
+  margin-bottom: 30px;
+}
+.introducao-info h1 span {
+  color: #ffbb00;
+}
+.introducao-info p {
+  margin-bottom: 20px;
+}
+.introducao-img {
+  height: 100%;
+}
+.introducao-img img {
+  object-fit: cover;
+  object-position: left;
+  width: 100%;
+  height: 100%;
+}

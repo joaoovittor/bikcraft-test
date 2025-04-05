@@ -1,0 +1,11 @@
+/*home*/
+@import url(/css/home/start.css);
+@import url(/css/home/introducao.css);
+
+/*Global*/
+@import url(./global.css);
+
+/*Utilitários*/
+@import url(/css/utilitários/color.css);
+@import url(/css/utilitários/utilitário.css);
+@import url(/css/utilitários/tipografia.css);
