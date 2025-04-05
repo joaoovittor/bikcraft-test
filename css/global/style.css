@@ -1,6 +1,7 @@
 /*home*/
 @import url(/css/home/start.css);
 @import url(/css/home/introducao.css);
+@import url(/css/home/bicicletas.css);
 
 /*Global*/
 @import url(./global.css);
