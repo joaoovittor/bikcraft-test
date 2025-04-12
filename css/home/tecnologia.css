@@ -22,19 +22,9 @@
   margin-bottom: 30px;
 }
 .tecnologia-info- a {
-  display: inline-block;
   margin-bottom: 80px;
-  position: relative;
 }
-.tecnologia-info- a::after {
-  content: "";
-  display: block;
-  background: var(--co-p1);
-  height: 5px;
-  margin-top: 4px;
-  width: 100%;
-  position: absolute;
-}
+
 .tecnologia-info-details span {
   display: inline-block;
   width: 25px;
