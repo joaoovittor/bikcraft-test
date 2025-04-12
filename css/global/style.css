@@ -3,6 +3,7 @@
 @import url(/css/home/introducao.css);
 @import url(/css/home/bicicletas.css);
 @import url(/css/home/tecnologia.css);
+@import url(/css/home/parceiros.css);
 
 /*Global*/
 @import url(./global.css);
